@@ -1,6 +1,6 @@
 # Degrees
 
-This project involves writing a program to determine the "degrees of separation" between two actors based on the movies they have starred in, inspired by the concept of the Six Degrees of Kevin Bacon game.
+Created a social network analysis tool to determine the degrees of separation between actors using the Breadth-First Search (BFS) algorithm. The program processes data from IMDb, computes the shortest path of connections through shared movie roles, and outputs the sequence of movies that connect any two actors.
 
 ### Objective
 
