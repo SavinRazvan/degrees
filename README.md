@@ -20,7 +20,7 @@ The project uses datasets based on IMDb, containing information about actors, mo
 
 ### Example Usage
 
-```bash
+```console
 $ python degrees.py large
 Loading data...
 Data loaded.
